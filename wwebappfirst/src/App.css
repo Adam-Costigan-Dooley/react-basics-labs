@@ -93,3 +93,22 @@ form {
   width: 50%;
   margin: auto;
 }
+
+.priority {
+  font-weight: bold;
+}
+
+.priorityLow {
+  font-weight: bold;
+  background-color: #45a049;
+}
+
+.priorityMedium {
+  font-weight: bold;
+  background-color: #e3d916;
+}
+
+.priorityHigh {
+  font-weight: bold;
+  background-color: #ff0000;
+}
